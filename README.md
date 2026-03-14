@@ -1,11 +1,7 @@
 ## Hi there 👋 
 I'm Teresa Fortes!
 
-I am studying towards a MSc in Software Engineering at Minho University.
-
-### Find me elsewhere 📫
-
-
+I am a Software Engineering PhD Student and Researcher @CMU currently working on the intersection of Formal Methods and Large Language Models.
 <!--
 **teresafortes019/teresafortes019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
